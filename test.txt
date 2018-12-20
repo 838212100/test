@@ -10,8 +10,7 @@ public class test{
 现在统一修改一次
 以此为准
 
-<<<<<<< HEAD
+
 i am master new change xiugai
-=======
+
 i am other change one
->>>>>>> 7b0caf8798154593c48bdb4710b543097b562732
