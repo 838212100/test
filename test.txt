@@ -11,8 +11,4 @@ public class test{
 以此为准
 
 
-
-HELLO MAN TRY AGAIN
-
-
-now father not forget
+OK
