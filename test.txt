@@ -11,15 +11,6 @@ public class test{
 以此为准
 
 
-i am master new change xiugai
 
-i am other change one
+OTHER TRY
 
-
-try again
-
-onemore try
-
-other one more try
-
-TRY AGAIN
