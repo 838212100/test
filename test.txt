@@ -12,6 +12,4 @@ public class test{
 
 
 
-OTHER TRY
-
-test again
+HELLO MAN TRY AGAIN
